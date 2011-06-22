@@ -1,0 +1,8 @@
+<html>
+  <head>
+    <title>the petalphile docs: Copper (Cu)</title>
+  </head>
+  <body>
+    {{ content }}
+  </body>
+</html>
